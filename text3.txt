@@ -14,3 +14,5 @@ CA for JDBCQ test certificates
 Store_cert
 API_Secrete
 API_Key
+Secrete
+com.android.application
